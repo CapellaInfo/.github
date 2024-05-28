@@ -13,7 +13,7 @@ At CapellaInfo, we believe in the power of data to drive insights and innovation
 
 ## Contact Us
 
-For any inquiries or suggestions, feel free to reach out to us at [rafaeldesousamoura23@gmail.com](mailto:rafaeldesousamoura23@gmail.com).
+For any inquiries or suggestions, feel free to reach out to us at...
 
 ---
 
