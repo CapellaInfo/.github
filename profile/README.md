@@ -12,7 +12,7 @@ Welcome to CapellaInfo! We are a community-driven organization dedicated to shar
 
   <!--  [![GitHub forks](https://img.shields.io/github/forks/CapellaInfo?style=for-the-badge&color=38bdf8)](https://github.com/CapellaInfo/network/members) -->
   [![GitHub stars](https://img.shields.io/github/stars/CapellaInfo?style=for-the-badge&color=38bdf8)](https://github.com/CapellaInfo/stargazers)
-  [![Contribuição](https://img.shields.io/badge/Contribui%C3%A7%C3%B5es-Bem--vindas-38bdf8?style=for-the-badge)](https://github.com/CapellaInfo/contributing)
+  [![Contribuição](https://img.shields.io/badge/Contribui%C3%A7%C3%B5es-Bem--vindos-38bdf8?style=for-the-badge)](https://github.com/CapellaInfo/contributing)
   [![MIT License](https://img.shields.io/badge/License-MIT-38bdf8?style=for-the-badge)](LICENSE)
 
 </div>
