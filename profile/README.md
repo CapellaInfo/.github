@@ -1,19 +1,15 @@
-# CapellaInfo - Data Analysis and Data Science Organization
+## **CapellaInfo | Explorando o Universo dos Dados e da Inteligência Artificial**
 
 Welcome to CapellaInfo! We are a community-driven organization dedicated to sharing projects and studies related to data analysis, data science, Python, and machine learning.
 
-# CapellaInfo
+<!-- Repositórios com ícone melhor posicionado -->
+![REPOSITÓRIOS](https://img.shields.io/badge/REPOSIT%C3%93RIOS-8-38bdf8?style=for-the-badge&labelColor=2d3748&logo=github&logoColor=white&logoWidth=20)
+[![ESTRELAS](https://img.shields.io/github/stars/CapellaInfo?style=for-the-badge&color=38bdf8&labelColor=2d3748&logo=github&logoColor=yellow&label=ESTRELAS)](https://github.com/CapellaInfo/stargazers)
+[![ÁREA](https://img.shields.io/badge/%C3%81REA-CI%C3%8ANCIA%20DE%20DADOS-38bdf8?style=for-the-badge&labelColor=2d3748&logo=databricks&logoColor=white)](https://github.com/CapellaInfo)
+[![SEGUIDORES](https://img.shields.io/github/followers/CapellaInfo?label=SEGUIDORES&style=for-the-badge&color=38bdf8&labelColor=2d3748&logo=github&logoColor=white)](https://github.com/CapellaInfo?tab=followers)
+ [![STATUS](https://img.shields.io/badge/STATUS-ATIVO-22c55e?style=for-the-badge&labelColor=2d3748&logo=checkmarx&logoColor=white)](https://github.com/CapellaInfo)
 
 <div align="center">
-  
-  ![Banner CapellaInfo](https://via.placeholder.com/800x200/0d1117/38bdf8?text=CapellaInfo)
-  
-  ### **Explorando o Universo dos Dados e da Inteligência Artificial**
-
-  <!--  [![GitHub forks](https://img.shields.io/github/forks/CapellaInfo?style=for-the-badge&color=38bdf8)](https://github.com/CapellaInfo/network/members) -->
-  [![GitHub stars](https://img.shields.io/github/stars/CapellaInfo?style=for-the-badge&color=38bdf8)](https://github.com/CapellaInfo/stargazers)
-  [![Contribuição](https://img.shields.io/badge/Contribui%C3%A7%C3%B5es-Bem--vindos-38bdf8?style=for-the-badge)](https://github.com/CapellaInfo/contributing)
-  [![MIT License](https://img.shields.io/badge/License-MIT-38bdf8?style=for-the-badge)](LICENSE)
 
 </div>
 
@@ -147,7 +143,7 @@ A CapellaInfo também serve como um repositório de conhecimento sobre:
   
   <i>✨ "Transformando dados em conhecimento, algoritmos em soluções, e código em valor." ✨</i>
   
-  <br><br>
+  <br>
   
   ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=capellainfo.github.readme)
   
