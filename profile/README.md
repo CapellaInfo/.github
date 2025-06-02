@@ -86,7 +86,7 @@ Bem-vindo à **CapellaInfo** - um repositório de projetos focados em Ciência d
 
 </div>
 
-## 🌟 Projetos Destacados
+## 🌟 Projetos 
 
 <div align="center">
   <table>
